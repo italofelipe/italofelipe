@@ -1,6 +1,6 @@
 # Hi, I'm Italo <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
 
-<img align="right" width="40%" src="https://media.giphy.com/media/cFdHXXm5GhJsc/giphy.gif" alt="Donatelo Coding" />
+<img align="right" width="40%" src="https://giphy.com/embed/zOvBKUUEERdNm" alt="Me Coding" />
 
 ### Welcome to my page!
 <p>
