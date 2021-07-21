@@ -46,7 +46,7 @@
 <code><img alt="React" src="https://img.icons8.com/officexs/48/000000/react.png"/></code>
 <code><img alt="React Native" src="https://img.icons8.com/color/48/000000/react-native.png"/></code>
 <code><img alt="Vue" src="https://img.icons8.com/color/48/000000/vue-js.png"/></code>
-<code><img alt="Angular" height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png" /></code>
+<code><img alt="SASS" src="https://img.icons8.com/color/48/000000/redux.png"/></code>
 <code><img alt="SASS" src="https://img.icons8.com/color/48/000000/sass.png"/></code>
 
 **Back-End**
@@ -55,7 +55,9 @@
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" alt="MongoDB"/></code>
-
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" alt="GraphQL"/></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png" alt="Firebase"/></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png" alt="Express"/></code>
 **Utilities**
 
 <code><img height="48" src="https://dashboard.snapcraft.io/site_media/appmedia/2018/04/twitter-card-icon.png" alt="Insomnia"/></code>
