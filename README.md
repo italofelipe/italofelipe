@@ -11,9 +11,13 @@
 
 ### Talking about Personal Stuffs
 
-- 👨🏽‍💻 I’m currently working on something cool :wink:;
+- 👨🏽‍💻 Front End Developer@Vortigo Digital (where magic happens everyday)
 
 - 🌱 Currently learning Java language and Clean Architecture and Clean Code; 
+
+- Economics 📊, History 👨🏻‍🏫 and Cooking 👨🏻‍🍳 enthusiast;
+
+- Addicted to World of Warcraft, Apex Legends and Age of Empires.
 
 - 💬 Ask me about anything, I am happy to help;
 
