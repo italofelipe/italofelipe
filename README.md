@@ -15,9 +15,9 @@
 
 - 🌱 Currently learning Java language and Clean Architecture and Clean Code; 
 
-- Economics 📊, History 👨🏻‍🏫 and Cooking 👨🏻‍🍳 enthusiast;
+- Passioned about Economics 📊, History 👨🏻‍🏫 and Cooking 👨🏻‍🍳;
 
-- Addicted to World of Warcraft, Apex Legends and Age of Empires.
+- Addicted to World of Warcraft, Apex Legends and Age of Empires(I never told ya I'm a good player xD).
 
 - 💬 Ask me about anything, I am happy to help;
 
