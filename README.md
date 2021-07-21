@@ -38,20 +38,23 @@
 **Front-End**
 
 <code><img alt="Javascript" src="https://img.icons8.com/color/48/000000/javascript.png"/></code>
-<code><img alt="Typescript" src="https://img.icons8.com/color/48/000000/typescript.png"/></code>
+
 <code><img alt="HTML5" src="https://img.icons8.com/color/48/000000/html-5.png"/></code>
 <code><img alt="CSS3" src="https://img.icons8.com/color/48/000000/css3.png"/></code>
+<code><img alt="SASS" src="https://img.icons8.com/color/48/000000/sass.png"/></code>
 <code><img alt="Bootstrap" height="48" src="https://img.icons8.com/color/48/000000/bootstrap.png"/></code>
+<code><img alt="Material UI" src="https://img.icons8.com/color/48/000000/material-ui.png"/></code>
 
+<code><img alt="Typescript" src="https://img.icons8.com/color/48/000000/typescript.png"/></code>
 <code><img alt="React" src="https://img.icons8.com/officexs/48/000000/react.png"/></code>
 <code><img alt="React Native" src="https://img.icons8.com/color/48/000000/react-native.png"/></code>
 <code><img alt="Vue" src="https://img.icons8.com/color/48/000000/vue-js.png"/></code>
 <code><img alt="Redux" src="https://img.icons8.com/color/48/000000/redux.png"/></code>
-<code><img alt="SASS" src="https://img.icons8.com/color/48/000000/sass.png"/></code>
 
-<code><img alt="Material UI" src="https://img.icons8.com/color/48/000000/material-ui.png"/></code>
+
+
 <code><img height="48" alt="Styled Components" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png"/></code>
-<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+
 
 **Back-End**
 
