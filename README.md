@@ -13,11 +13,11 @@
 
 - 👨🏽‍💻 Front End Developer@Vortigo Digital (where magic happens everyday)
 
-- 🌱 Currently learning Java language and Clean Architecture and Clean Code; 
+- 🌱 Currently learning Java language, Clean Architecture and Clean Code; 
 
 - Passioned about Economics 📊, History 👨🏻‍🏫 and Cooking 👨🏻‍🍳;
 
-- Addicted to World of Warcraft, Apex Legends and Age of Empires(I never told ya I'm a good player xD).
+- Addicted to World of Warcraft, Apex Legends and Age of Empires (I never told ya I'm a good player xD).
 
 - 💬 Ask me about anything, I am happy to help;
 
@@ -84,7 +84,18 @@
 <code><img height="48" src="https://upload.wikimedia.org/wikipedia/commons/4/45/Notion_app_logo.png" alt="Notion"/></code>
 <code><img height="48" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
+**Currently Learning**
+<code><img height="48" src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java"/></code>
+
+**Curious About (will study in a near future)**
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"/></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="AWS"/></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="AWS"/></code>
+
 <br/>
+
+<br />
+<q>"I like the impossible because there’s less competition." - Walt Disney</q>
 
 ## Coding Activity
 
