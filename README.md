@@ -85,17 +85,19 @@
 <code><img height="48" src="https://cdn.iconscout.com/icon/free/png-512/trello-6-569395.png" alt="Trello"/></code>
 
 **Currently Learning**
+
 <code><img height="48" src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java"/></code>
 
 **Curious About (will study in a near future)**
+
 <code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"/></code>
-<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="AWS"/></code>
-<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="AWS"/></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Azure"/></code>
+<code><img height="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"/></code>
 
 <br/>
 
 <br />
-<q>"I like the impossible because there’s less competition." - Walt Disney</q>
+<q>I like the impossible because there’s less competition.</q> - Walt Disney
 
 ## Coding Activity
 
