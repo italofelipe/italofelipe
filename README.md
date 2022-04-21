@@ -11,7 +11,7 @@
 
 ### Talking about Personal Stuffs
 
-- 👨🏽‍💻 Front End Developer@Vortigo Digital (where magic happens everyday)
+- 👨🏽‍💻 Tech Lead@Vortigo Digital (where magic happens everyday)
 
 - 🌱 Currently learning Java language, Clean Architecture and Clean Code; 
 
