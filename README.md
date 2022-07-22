@@ -5,13 +5,13 @@
 ### Welcome to my page!
 <p>
   I'm Italo, focused frontend developer with some back-end skills from 
-  <img width="16" src="https://www.flaticon.com/svg/static/icons/svg/197/197386.svg" alt="Brazil" />
   <b>Brazil</b>.
 </p>
 
 ### Talking about Personal Stuffs
 
-- 👨🏽‍💻 Tech Lead@Vortigo Digital (where magic happens everyday)
+- 👨🏽‍💻 Senior Front End Developer@Pagaleve (where magic happens everyday)
+- 👨🏽‍💻 Former Tech Lead@Vortigo Digital 
 
 - 🌱 Currently learning Java language, Clean Architecture and Clean Code; 
 
