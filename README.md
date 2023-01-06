@@ -4,7 +4,7 @@
 
 ### Welcome to my page!
 <p>
-  I'm Italo Chagas
+  I'm Italo Chagas, 25 years old software engineer from Brasilia, Brazil.
 </p>
 
 ### Personal
@@ -107,11 +107,3 @@
 
 <br />
 <q>I like the impossible because there’s less competition.</q> - Walt Disney
-
-## Coding Activity
-
-<br/>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=italofelipe&show_icons=true&theme=dracula" alt="Mitsu325's github stats" />
-</p>
