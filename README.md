@@ -21,7 +21,7 @@
 
 - 💬 Ask me about anything, I am happy to help;
 
-- 📝 Check my [Resume](https://drive.google.com/file/d/1i0F7s4d3RBtRy0kjrLkGsD4PHLGXeOJv/view?usp=sharing)
+- 📝 Check my [Resume](https://drive.google.com/file/d/1Kq7y7zi4dstoYdwen9uhEwhcw5UaxY3J/view?usp=share_link)
 
 ### Where to find me
 
