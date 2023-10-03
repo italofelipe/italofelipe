@@ -12,8 +12,9 @@
 
 - 👨🏽‍💻 Senior Front End Developer@Pagaleve (where magic happens everyday)
 - 👨🏽‍💻 Former Tech Lead@Vortigo Digital
+- 👨🏽‍💻 Former Tech Lead@JUIT
 
-- 🌱 Currently learning Flutter, Clean Architecture and Clean Code;
+- 🌱 Currently learning Angular 16 and Clean Architecture;
 
 - Passioned about Economics 📊, History 👨🏻‍🏫 and Cooking 👨🏻‍🍳;
 
@@ -21,7 +22,7 @@
 
 - 💬 Ask me about anything, I am happy to help;
 
-- 📝 Check my [Resume](https://drive.google.com/file/d/1Kq7y7zi4dstoYdwen9uhEwhcw5UaxY3J/view?usp=share_link)
+- 📝 Check my [Resume](https://drive.google.com/file/d/1333UXO4iOE08ISrEY5yVHTNU3Tmug-3i/view?usp=drive_link)
 
 ### Where to find me
 
@@ -122,7 +123,7 @@
 **Currently Learning**
 
 <ul>
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png" alt="Flutter"/></code></code><b style="text-align: center; margin-left: 10px;">Flutter</b></li>
+<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular"/></code></code><b style="text-align: center; margin-left: 10px;">Angular</b></li>
 </ul>
 
 **Curious About (will study in a near future)**
