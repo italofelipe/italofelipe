@@ -10,7 +10,7 @@
 
 ### Personal
 
-- 👨🏽‍💻 Former Senior Front End Developer@Pagaleve (don't work here, seriously)
+- 👨🏽‍💻 Former Senior Front End Developer@Pagaleve
 - 👨🏽‍💻 Former Tech Lead@Vortigo Digital
 - 👨🏽‍💻 Former Tech Lead@JUIT
 
