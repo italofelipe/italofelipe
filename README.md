@@ -10,7 +10,7 @@
 
 ### Personal
 
-- 👨🏽‍💻 Former Senior Front End Developer@Pagaleve
+- 👨🏽‍💻 Software Engineer@Velma (where magic happens everyday)
 - 👨🏽‍💻 Former Tech Lead@Vortigo Digital
 - 👨🏽‍💻 Former Tech Lead@JUIT
 
