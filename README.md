@@ -10,7 +10,6 @@
 
 ### Personal
 
-- 👨🏽‍💻 Software Engineer@Velma (where magic happens everyday)
 - 👨🏽‍💻 Former Tech Lead@Vortigo Digital
 - 👨🏽‍💻 Former Tech Lead@JUIT
 
