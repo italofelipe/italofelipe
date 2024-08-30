@@ -5,15 +5,15 @@
 ### Welcome to my page
 
 <p>
-  I'm Italo Chagas, 25 years old software engineer from Brasilia, Brazil.
+  I'm Italo Chagas, 26 years old software engineer from Brasilia, Brazil.
 </p>
 
 ### Personal
 
-- 👨🏽‍💻 Former Tech Lead@Vortigo Digital
+- 👨🏽‍💻Tech Lead@Vortigo Digital
 - 👨🏽‍💻 Former Tech Lead@JUIT
 
-- 🌱 Currently learning Angular 16 and Clean Architecture;
+- 🌱 Currently learning Python 3.
 
 - Passioned about Economics 📊, History 👨🏻‍🏫 and Cooking 👨🏻‍🍳;
 
