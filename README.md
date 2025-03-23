@@ -5,15 +5,13 @@
 ### Welcome to my page
 
 <p>
-  I'm Italo Chagas, 26 years old software engineer from Brasilia, Brazil.
+  I'm Italo Chagas, 27 years old software engineer from Brasilia, Brazil.
 </p>
 
 ### Personal
 
 - 👨🏽‍💻Tech Lead@Vortigo Digital
 - 👨🏽‍💻 Former Tech Lead@JUIT
-
-- 🌱 Currently learning Python 3.
 
 - Passioned about Economics 📊, History 👨🏻‍🏫 and Cooking 👨🏻‍🍳;
 
@@ -122,16 +120,11 @@
 **Currently Learning**
 
 <ul>
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular"/></code></code><b style="text-align: center; margin-left: 10px;">Angular</b></li>
+<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://1000logos.net/wp-content/uploads/2020/08/Django-Logo-500x313.png" alt="Django"/></code></code><b style="text-align: center; margin-left: 10px;">Django</b></li>
+
+  <li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://svgmix.com/uploads/skillicons/151df7-fastapi.svg" alt="FastAPI"/></code></code><b style="text-align: center; margin-left: 10px;">FastAPI</b></li>
 </ul>
 
-**Curious About (will study in a near future)**
-
-<ul>
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"/></code></code><b style="text-align: center; margin-left: 10px;">AWS</b></li>
-<li style="list-style: none; display: flex; width: 40%; justify-content: flex-start; margin-top: 5px;"><code><img width="24px" height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/azure/azure.png" alt="Azure"/></code></code><b style="text-align: center; margin-left: 10px;">Azure</b></li>
-
-</ul>
 <br/>
 
 <br />
