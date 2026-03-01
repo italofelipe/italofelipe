@@ -1,16 +1,14 @@
-# Hi, I'm Italo <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" />
+# Hi, I'm Italo
 
 <img align="right" width="40%" src="https://media1.tenor.com/images/40949c09fe4f6ac9a0d55498ac9ebc66/tenor.gif" alt="Me Coding" />
 
-### Welcome to my page
-
 <p>
-  I'm Italo Chagas, 27 years old software engineer from Brasilia, Brazil.
+  I'm Italo Chagas, 28 years old software engineer from Brasilia, Brazil.
 </p>
 
 ### Personal
 
-- 👨🏽‍💻Tech Lead@Vortigo Digital
+- 👨🏽‍💻 Tech Lead@Vortigo Digital
 - 👨🏽‍💻 Former Tech Lead@JUIT
 
 - Passioned about Economics 📊, History 👨🏻‍🏫 and Cooking 👨🏻‍🍳;
