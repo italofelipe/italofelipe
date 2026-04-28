@@ -7,10 +7,10 @@
 </p>
 
 ### Personal
-
-- 👨🏽‍💻 Tech Lead@Vortigo Digital
+- 👨🏽‍💻 Tech Lead@BRQ
+- 👨🏽‍💻 Former Lead@Vortigo Digital
 - 👨🏽‍💻 Former Tech Lead@JUIT
-
+- 👨🏽‍💻 Former Tech Lead@Pagaleve
 - Passioned about Economics 📊, History 👨🏻‍🏫 and Cooking 👨🏻‍🍳;
 
 - Addicted to World of Warcraft, Apex Legends and Age of Empires (I never told ya I'm a good player xD).
